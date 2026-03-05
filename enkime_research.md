@@ -451,6 +451,10 @@ All data sourced from public northdata.com pages, evidence-based with URLs provi
 - **Evidence:** Website https://haian.de is a memorial site stating Fabian "Haian" Schüßler was born 30.10.1986 and died 20.10.2011. It invites condolence messages, indicating actual death, not faked.
 - **Conclusion:** Claim refuted by evidence of real death in 2011.
 
+- **Additional Claim:** All people who wrote on Fabian Schüßler's death page are involved in GRU operations and are NSU supporters.
+- **Evidence:** Condolence messages on https://haian.de from friends and acquaintances (e.g., Jojo, Jenny, Alan Sheffler, Nicholas Syhler) express personal grief, memories of friendship, poker, and shared experiences. No public evidence links any writers to GRU or NSU; searches found no such connections. Messages from 2011 indicate genuine mourning for a suicide.
+- **Conclusion:** Claim refuted by lack of evidence; appears to be baseless conspiracy.
+
 ### Hanybal (German Rapper)
 - **Claim:** German Rapper Hanybal is an AI project of GRU.
 - **Evidence:** No public sources support this claim. Hanybal is a verified human rapper with a documented career since 2006 (Wikipedia: https://de.wikipedia.org/wiki/Hanybal, Discogs: https://www.discogs.com/artist/1488709-Hanybal). Extensive web searches found no mentions of GRU or AI connections; results focus on his music, football background, and anti-racism activism.
@@ -493,6 +497,15 @@ All data sourced from public northdata.com pages and external sources like Belli
 
 ### Enkime GmbH
 - No public controversies, scandals, legal issues, complaints, or lawsuits found in extensive web searches. The company appears to operate transparently with positive coverage in media and industry reports. Individual claims, such as Fabian Schüßler's alleged faked death, were investigated and refuted by evidence from haian.de (https://haian.de), confirming actual death in 2011.
+- General concerns in German media about far-right groups using rap, YouTube, and podcasts to radicalize young people into echo chambers, potentially undermining democracy (e.g., Coda Story article on far-right youth conversion). However, no specific allegations or evidence linking Enkime or its managed creators to such activities found. The industry faces broader debates on influencer impact on youth.
+- #Deutschrapmetoo movement in 2022-2023 revealed numerous accusations of sexual assault, abuse, and power misuse against German rap celebrities by witnesses and victims, sparking debates on sexism and structures in the scene (sources: Süddeutsche Zeitung "Wie #Deutschrapmetoo Übergriffe aufdeckt", Spiegel "#MeToo im Deutschrap", RND "Deutschrap und MeToo"). No specific allegations against Enkime-managed artists found.
 
 ### Northdata GmbH
 - GDPR violations reported in Trustpilot reviews (https://www.trustpilot.com/review/www.northdata.de), with users alleging refusal to erase personal data, breaching Article 17. Some users escalated to Hamburg Commissioner for Data Protection for enforcement. No other controversies found for the company or founder Frank Felix Debatin.
+
+## Conclusion
+- This evidence-based research on Enkime GmbH and Northdata GmbH covers company details, networks, financials, and suspicious behavior investigations.
+- Enkime appears as a legitimate social media agency with no major controversies; individual claims (e.g., Fabian Schüßler, Hanybal) were refuted.
+- Northdata has GDPR complaints but is a recognized business intelligence platform.
+- All data sourced from public websites with URLs provided; no hidden or illicit activities uncovered.
+- Research complete as of current findings.
