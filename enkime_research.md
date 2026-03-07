@@ -460,6 +460,11 @@ All data sourced from public northdata.com pages, evidence-based with URLs provi
 - **Evidence:** No public sources support this claim. Hanybal is a verified human rapper with a documented career since 2006 (Wikipedia: https://de.wikipedia.org/wiki/Hanybal, Discogs: https://www.discogs.com/artist/1488709-Hanybal). Extensive web searches found no mentions of GRU or AI connections; results focus on his music, football background, and anti-racism activism.
 - **Conclusion:** Claim refuted by lack of evidence.
 
+### Thomas Deike and Julius Falkenhain-Walkling
+- **Claim:** Thomas Deike and Julius Falkenhain-Walkling are NSU supporters; Julius sponsors money.
+- **Evidence:** No public sources link Thomas Deike or Julius Falkenhain-Walkling to NSU (National Socialist Underground). Searches show Thomas Deike as a US resident or German engineer; Julius Falkenhain-Walkling as a business owner in Peine, Germany (e.g., Facebook: https://www.facebook.com/julius.falkenhain/). No evidence of NSU support or financial sponsorship.
+- **Conclusion:** Claim refuted by lack of evidence.
+
 ## Northdata Research
 
 **Source URL:** https://www.northdata.com/
